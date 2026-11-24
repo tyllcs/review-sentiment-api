@@ -1,6 +1,7 @@
 fastapi==0.163.1
 uvicorn==0.54.0
 pydantic==2.14.3
-httpx==0.28.1
+httpx2[http2]==2.16.2
+zttp==0.0.35
 joblib==1.6.0
 scikit-learn==1.9.1
