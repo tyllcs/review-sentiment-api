@@ -5,3 +5,4 @@ httpx2[http2]==2.16.2
 zttp==0.0.35
 joblib==1.6.0
 scikit-learn==1.9.1
+pytest==9.2.0
